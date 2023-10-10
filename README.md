@@ -9,4 +9,4 @@ I'm a computer engineering student who is passionate about writing code, solving
 - 📚 I’m fluent in C++, Java, MySql programming languages.
 - 📚 I can use Microsoft Office programs.
 - 👯 I’m looking for a software development internship.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/zamaddin2003) [Gmail](mailto:zameddin.israfilov1@gmail.com)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/zamaddin2003/) [Gmail](mailto:zameddin.israfilov1@gmail.com)
